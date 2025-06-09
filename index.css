@@ -12,7 +12,8 @@ body{
 #Book{
     border: 5px solid;
     padding: 50px;
-    height: 80%
+    height: 80%;
+    overflow-y: scroll;
 
 }
 
